@@ -1,7 +1,7 @@
 @echo off
 
-set nativesLocation=D:\RE_modding\REtool\re_dlc_stm_1456360
-set msgLocation=\natives\stm\message\dlc
+set nativesLocation=D:\RE_modding\REtool\re_chunk_000
+set msgLocation=\natives\stm\message\sce
 set lng1=ja
 set lng2=en
 set modName=dualsub_test_%lng1%_%lng2%
