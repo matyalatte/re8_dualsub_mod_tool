@@ -17,7 +17,7 @@ Now, The structure of your current directory will be like this.<br>
 re8_dualsub_mod_tool<br>
 +-- .git<br>
 +-- .gitignore<br>
-+-- edit_txt<br>
++-- txt_edit_tool<br>
 +-- REngine_Text-Tool<br>
 +-- clear_workdir.bat<br>
 +-- etc...<br>
