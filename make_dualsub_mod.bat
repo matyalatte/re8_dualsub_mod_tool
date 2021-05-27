@@ -14,7 +14,7 @@ REM extract sub text from msg files
 call export.bat %lng1% %lng2%
 
 REM make dualsub text from txt files
-txt_edit_tool\dist\make_dualsub\make_dualsub.exe %~dp0\workdir %lng1% %lng2%
+txt_edit_tool\dist\make_dualsub.exe %~dp0\workdir %lng1% %lng2%
 
 echo TXT editing was complete. If you want to edit texts yourself, open workdir and edit TXT files.
 PAUSE

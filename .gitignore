@@ -1,4 +1,5 @@
+test
 workdir
 mods
 REngine_Text-Tool
-edit_txt/py_to_ext.bat
+txt_edit_tool/*.bat
