@@ -2,7 +2,7 @@
 
 set nativesLocation=D:\RE_modding\REtool\re_chunk_000
 set msgLocation=\natives\stm\message\sce
-set lng1=jp
+set lng1=ja
 set lng2=en
 set modName=dualsub_%lng1%_%lng2%
 

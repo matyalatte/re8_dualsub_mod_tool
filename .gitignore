@@ -3,3 +3,6 @@ workdir
 mods
 REngine_Text-Tool
 txt_edit_tool/*.bat
+txt_edit_tool/*.spec
+txt_edit_tool/__*
+txt_edit_tool/build
