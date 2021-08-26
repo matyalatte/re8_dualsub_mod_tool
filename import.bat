@@ -13,8 +13,8 @@ for %%f in (workdir\*.17) do (
 set file=%%f%
 REngine_Text-Tool\REngine_Text-Tool.exe !file!.txt %2
 move !file!.new !file!
-REM REngine_Text-Tool\REngine_Text-Tool.exe !file!.txt %3
-REM move !file!.new !file!
+REngine_Text-Tool\REngine_Text-Tool.exe !file!.txt %3
+move !file!.new !file!
 copy !file! mods\%1\%4
 )
 endlocal
